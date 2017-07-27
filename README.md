@@ -3,4 +3,4 @@ navagis practical exam
 
 Hello!
 
-This is a practical exam map exercise for navagis. unfortunately this wasn't finished since my laptop died.
+This is an exam map exercise for Navagis. Unfortunately, this was not finished since my laptop died.
